@@ -19,4 +19,4 @@ sudo apt-get install -y docker-ce
 
 curl -sL https://raw.githubusercontent.com/home-assistant/hassio-build/master/install/hassio_install | sudo bash -
 
-echo -e "\nSuccess!\n\n go to\n\nhttp://YOURSERVERIP:8123\n"
+echo -e "\nSuccess! go to\n\nhttp://YOURSERVERIP:8123\n"
